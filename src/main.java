@@ -5,4 +5,9 @@ public class main {
 	{
 		System.out.print("Hello World");
 	}
+	
+	public void featureB()
+	{
+		System.out.print("featureB");
+	}
 }
